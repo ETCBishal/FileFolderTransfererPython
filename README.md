@@ -1,8 +1,3 @@
-# pythonAutomation
-```mermaid
-graph LR
-A[Start Loop] --> C[Move Folders or Move Files] --> D[Final Destination]
-```
 ## 1.Start
 >![start](https://user-images.githubusercontent.com/98162630/181414813-f98aa2b7-541b-47c8-8701-73535dd9140d.png)
 
